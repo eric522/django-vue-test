@@ -1,0 +1,8 @@
+.vscode
+venv
+backend/backend/__pycache__
+backend/restapi/__pycache__
+backend/restapi/migrations
+backend/zdb/__pycache__
+backend/zdb/migrations
+frontend/node_modules
